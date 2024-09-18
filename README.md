@@ -36,3 +36,6 @@ Display a summary of total sales, profits and quantity for the current year and 
 •⁠  ⁠Display the average weekly values.
 
 •⁠  Highlight weeks that are above and below the average to   draw attention to sales & profit performance.
+
+![Customer Dashboard](https://github.com/user-attachments/assets/0294061a-57ae-478e-88ed-395d9214569f)
+
